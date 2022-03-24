@@ -1,2 +1,2 @@
-# project_4
+# RayTraycingProject
 Final Project for CS 413
